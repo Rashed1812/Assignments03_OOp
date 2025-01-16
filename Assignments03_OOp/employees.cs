@@ -58,7 +58,8 @@ namespace Assignments03_OOp
             Guest,
             Developer,
             Secretary,
-            DBA
+            DBA,
+            SecurityOfficer
         }
 
    
@@ -75,9 +76,6 @@ namespace Assignments03_OOp
             $"Hire Date: {hireDate.DisplayHiringDate()}\n" +
             $"Gender: {Gender}");
         } 
-    
-
-
 
         #endregion
 
