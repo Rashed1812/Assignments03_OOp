@@ -8,5 +8,15 @@ namespace Assignments03_OOp
 {
     internal class employees
     {
+        #region Attributes
+
+        private int id;
+        private string name;
+        private int securityLevel;
+        private int salary;
+        private DateOnly hireDate;
+        private char gender; 
+
+        #endregion
     }
 }
