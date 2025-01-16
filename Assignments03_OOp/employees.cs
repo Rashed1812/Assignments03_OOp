@@ -8,7 +8,6 @@ namespace Assignments03_OOp
 {
     internal class employees
     {
-        #region Attributes
 
         private int id;
         private string name;
